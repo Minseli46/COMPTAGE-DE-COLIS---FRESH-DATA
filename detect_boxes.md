@@ -104,7 +104,7 @@ Sur la page de login, cliquer sur **"Sign Up"**. Comme l'outil tourne en local s
 #### 5) Export des données
 Une fois toutes les images traitées :
 1.  Cliquer sur le bouton **Export** en haut à droite.
-2.  Sélectionner le format **YOLO** dans la liste.
+2.  Sélectionner le format **YOLO  with Images** dans la liste.
 3.  Cela téléchargera une archive `.zip` contenant les images et les fichiers `.txt` correspondants.
 
 #### 6) Entraînement du modèle
