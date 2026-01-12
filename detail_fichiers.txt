@@ -1,0 +1,10 @@
+collabTraining.pt : résultat de l'entraînement sur 2000 images via Google Collab
+best_train_500pictures.pt : résultat de l'entraînement sur 500 images
+
+allTest : fichier pour lancer des tests sur toutes les époques d'un entraînement (quand on lance l'entraînement avec save_period=1)
+test : fichier pour lancer un test sur une époque d'un modèle entraîné
+train11 : contient les résultats de l'entraînement sur 500 images
+resultats_tests : contient des exemples de résultats de l'utilisation du modèle entraîné sur des images prises sur site
+
+detect_boxes : tutoriel pour l'utilisation des fichiers et du modèle YOLO
+
